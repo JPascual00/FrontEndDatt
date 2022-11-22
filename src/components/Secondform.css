@@ -1,0 +1,1857 @@
+.secondform {
+    text-align: center;
+}
+
+.ansrecsearch {
+    width: 60px;
+    margin-left: 118em;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecclear {
+    width: 60px;
+    margin-left: 20px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecclose {
+    width: 60px;
+    margin-left: 50px;
+    border-style: solid;
+    border-color: black;
+}
+
+
+/*Main Divisions*/
+.basicsearchinfo {
+    background-color: lightgrey;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.secondbasicinfo {
+    background-color: lightgrey;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.ansrecdealerinfo {
+    background-color: lightgrey;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.ansreccustinfo {
+    background-color: lightgrey;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.ansrecprodinfo {
+    background-color: lightgrey;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.ansrecinqinfo {
+    background-color: lightgrey;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.ansreccontentsinfo {
+    background-color: lightgrey;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.ansreccommoninfo {
+    background-color: lightgrey;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.ansrechomeappinfo {
+    background-color: lightgrey;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.ansrecairconbg {
+    background-color: lightgrey;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.ansreccleanerinfo {
+    background-color: lightgrey;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+/*Info header Styles*/
+
+.mainheader {
+
+    font-weight: bold;
+    font-family: Helvetica;
+    margin-left: -36.5em;
+}
+
+.basicsearchhead {
+    font-size: medium;
+    font-weight: bold;
+    font-family: Helvetica;
+    margin-left: -108em;
+}
+
+.secondbasicinfoheader {
+    font-size: medium;
+    font-weight: bold;
+    font-family: Helvetica;
+    margin-left: -112.5em;
+}
+
+.ansrecdealerinfohead {
+    font-size: medium;
+    font-weight: bold;
+    font-family: Helvetica;
+    margin-left: -108em;
+}
+
+.ansreccustinfoheader {
+    font-size: medium;
+    font-weight: bold;
+    font-family: Helvetica;
+    margin-left: -106.5em;
+}
+
+.ansrecprodinfoheader {
+    font-size: medium;
+    font-weight: bold;
+    font-family: Helvetica;
+    margin-left: -107.5em;
+}
+
+.ansrecqueryclassheader {
+    font-size: medium;
+    font-weight: bold;
+    font-family: Helvetica;
+    margin-left: -107.5em;
+}
+
+.ansreccontentsheader {
+    font-size: medium;
+    font-weight: bold;
+    font-family: Helvetica;
+    margin-left: -112.5em;
+}
+
+.ansrecommonheader {
+    font-size: medium;
+    font-weight: bold;
+    font-family: Helvetica;
+    margin-left: -53em;
+}
+
+.ansrechomeappheader {
+    font-size: medium;
+    font-weight: bold;
+    font-family: Helvetica;
+    margin-left: -44em;
+}
+
+.ansrecairconheader {
+    font-size: medium;
+    font-weight: bold;
+    font-family: Helvetica;
+    margin-left: -44em;
+}
+
+.ansreccleanerheader {
+    font-size: medium;
+    font-weight: bold;
+    font-family: Helvetica;
+    margin-left: -54em;
+}
+
+/*Reception Date and Time Style*/
+.receptdtbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+
+}
+
+.recepdt {
+    margin-left: -80px;
+    margin-top: -5px;
+}
+
+/* Reception Date and Time - Year 2 Style */
+
+.recepdtyear1 {
+    margin-left: 260px;
+    margin-top: -30px;
+}
+
+.recepdtyear1dropdown {
+    width: 100px;
+    height: 32px;
+    margin-left: 295px;
+    margin-top: -36px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Reception Date and Time - Month 1 Style */
+.recepdtmonth1 {
+    margin-top: -30px;
+    margin-left: 110px;
+    
+}
+
+.recepdtmonth1dropdown {
+    width: 100px;
+    height: 32px;
+    margin-top: -32px;
+    margin-left: 452px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Reception Date and Time = Day 1 Style */
+.recepdtday1 {
+    margin-top: -30px;
+    margin-left: 110px;
+}
+
+.recepdtday1dropdown {
+    width: 100px;
+    height: 32px;
+    margin-top: -32px;
+    margin-left: 588px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Reception Date and Time - Time Style */
+.recepdttime1 {
+    margin-top: -30px;
+    margin-left: 120px;
+}
+
+.recepdttime1field {
+    width: 100px;
+    height: 32px;
+    text-align: center;
+    margin-left: 750px;
+    margin-top: -32px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Conjunction Label Style */
+.conjunction {
+    font-weight: bold;
+    margin-top: -30px;
+    margin-left: 130px;
+}
+
+/* Reception Date and Time - Year 2 Style */
+.recepdtyear2 {
+    margin-left: 25px;
+    margin-top: -30px;
+}
+
+.recepdtyear2dropdown {
+    width: 100px;
+    height: 32px;
+    margin-left: 67.9em;
+    margin-top: -32px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Reception Date and Time - Month 2 Style */
+.recepdtmonth2 {
+    margin-left: 120px;
+    margin-top: -30px;
+}
+
+.recepdtmonth2dropdown {
+    width: 100px;
+    height: 32px;
+    margin-left: 80em;
+    margin-top: -32px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Reception Date and Time - Day 2 Style */
+.recepdtday2 {
+    margin-left: 120px;
+    margin-top: -30px;
+}
+
+.recepdtday2dropdown {
+    width: 100px;
+    height: 32px;
+    margin-left: 90.5em;
+    margin-top: -32px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Reception Date and Time - Time 2 Style */
+.recepdttime2 {
+    margin-left: 120px;
+    margin-top: -30px;
+}
+
+.recepdttime2field {
+    width: 100px;
+    height: 32px;
+    text-align: center;
+    margin-left: 101.5em;
+    margin-top: -32px;
+    border-style: solid;
+    border-color: black;
+}
+
+
+/* Second Reception Code Style */
+.secondrecepcodebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+}
+
+.secondrecepcodefield {
+    margin-left: 255px;
+    margin-top: -35px;
+    border-style: solid;
+    border-color: black;
+}
+
+.secondrecepcode {
+    margin-left: 120px;
+}
+
+/* Reception Group field */
+.recepgroupbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.recepgroup {
+    margin-left: 110px;
+}
+
+.recepgroupdropdown1 {
+    margin-left: 255px;
+    margin-top: -34px;
+    border-style: solid;
+    border-color: black;
+}
+
+.recepgroupdropdown2 {
+    margin-left: 508px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+}
+
+.recepgroupdropdown3 {
+    margin-left: 762px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+}
+
+.recepgroupdropdown4 {
+    margin-left: 72.5em;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Basic Info Receptionist Style */
+.basicinforecepbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.basicinforeceptionistfield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.basicinforecep {
+    margin-left: 140px;
+}
+
+/* Response Group Style */
+.respogroupbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.respogroup {
+    margin-left: 110px;
+}
+
+.respogroupdropdown1 {
+    margin-left: 255px;
+    margin-top: -32px;
+    border-style: solid;
+    border-color: black;
+}
+
+.respogroupdropdown2 {
+    margin-left: 508px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+}
+
+.respogroupdropdown3 {
+    margin-left: 762px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+}
+
+.respogroupdropdown4 {
+    margin-left: 72.5em;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Basic Info Respondent field */
+.secondrespobg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.secondrespo {
+    margin-left: 110px;
+}
+
+.secondrespofield {
+    margin-left: 255px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Basic Info Completion Date and Time */
+.basicinfocdtbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.basicinfocdt {
+    margin-left: 30px;
+}
+
+.cdtyear {
+    margin-left: 260px;
+    margin-top: -27px;
+}
+
+.cdtyearfield {
+    width: 100px;
+    margin-left: 300px;
+    margin-top: -35px;
+    border-style: solid;
+    border-color: black;
+}
+
+.cdtmonth {
+    margin-left: 120px;
+    margin-top: -27px;
+}
+
+.cdtmonthfield {
+    width: 100px;
+    margin-left: 465px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+}
+
+.cdtday {
+    margin-left: 120px;
+    margin-top: -27px;
+}
+
+.cdtdayfield {
+    width: 100px;
+    margin-left: 615px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+}
+
+.cdttime {
+    margin-left: 120px;
+    margin-top: -27px;
+}
+
+.cdttimefield {
+    width: 100px;
+    margin-left: 770px;
+    margin-top: -31px;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Basic Info Status Style */
+.basicinfostatusbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 520px;
+    margin-top: -30px;
+}
+
+.basicinfostatus {
+    margin-left: 180px;
+}
+
+.basicinfostatusdropdown {
+    width: 120px;
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Succession Style */
+.successionbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-top: -29px;
+    margin-left: 900px;
+}
+
+.succession {
+    margin-left: 150px;
+}
+
+.successiondropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Dealer Tel Style */
+.ansrecdealertelbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+}
+
+.ansrecdealertel {
+    margin-left: 140px;
+}
+
+.ansrecdealertelfield1 {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecdealertelfield2 {
+    width: 150px;
+    margin-left: 510px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Dealear Name Style */
+.ansrecdealernamebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecdealername {
+    margin-left: 120px;
+}
+
+.ansrecdealernamefield {
+    width: 500px;
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Dealer Fax Style */
+.ansrecdealerfaxbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecdealerfax {
+    margin-left: 130px;
+}
+
+.ansrecdealerfaxfield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Dealer Address Style */
+.ansrecdealeraddbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecdealeradd {
+    margin-left: 120px;
+}
+
+.ansrecdealeraddfield {
+    width: 500px;
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Reseller Code Style */
+.ansrecrescodebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 60em;
+    margin-top: -30px;
+}
+
+.ansrecrescodefield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecrescode {
+    margin-left: 120px;
+}
+
+/* Answer Record Search - Responsible Style */
+.ansrecresponsiblebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 60em;
+    margin-top: -30px;
+}
+
+.ansrecresponsible {
+    margin-left: 120px;
+}
+
+.ansrecresponsiblefield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Order Number Style */
+.ansrecordernumbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 60em;
+    margin-top: -30px;
+}
+
+.ansrecordernumfield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecordernum {
+    margin-left: 120px;
+}
+
+/* Answer Record Search - Gender Style */
+.ansrecgenderbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecgender {
+    margin-left: 170px;
+}
+
+.ansrecgenderdropdown {
+    width: 150px;
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Style - Relation Style */
+.ansrecrelationbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecrelation {
+    margin-left: 160px;
+}
+
+.ansrecrelationdropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Age Style */
+.ansrecagebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 40em;
+    margin-top: -29px;
+}
+
+.ansrecagedropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Institutional Classification Style */
+.ansrecinsclassbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 40em;
+    margin-top: -29px;
+}
+
+.ansrecinsclassdropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecinsclass {
+    margin-left: 90px;
+}
+
+/* Answer Record Search - Area Style */
+.ansrecareabg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 80em;
+    margin-top: -29px;
+}
+
+.ansrecareadropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecarea {
+    margin-left: 180px;
+}
+
+/* Answer Record Search -  Type of Customer Style */
+.ansrectocbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 80em;
+    margin-top: -29px;
+}
+
+.ansrectocdropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrectoc {
+    margin-left: 110px;
+}
+
+/* Answer Record Search - Customer Name (Kanji) Style */
+.ansreccustnamekanjibg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansreccustnamekanji {
+    margin-left: 70px;
+}
+
+.ansreccustnamekanjifield {
+    margin-left: 255px;
+    margin-top: -33px;
+    width: 600px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Company Name  (Kanji) Style */
+.ansreccompnamekanjibg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansreccompnamekanji {
+    margin-left: 70px;
+}
+
+.ansreccompnamekanjifield {
+    margin-left: 255px;
+    margin-top: -33px;
+    width: 600px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Customer Name (Katakana) Style */
+.ansreccustnamekanabg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 55em;
+    margin-top: -29px;
+}
+
+.ansreccustnamekanafield {
+    margin-left: 255px;
+    margin-top: -33px;
+    width: 600px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansreccustnamekana {
+    margin-left: 40px;
+}
+
+/* Answer Record Search - Company Name (Katakana) Style */
+.ansreccompnamekanabg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 55em;
+    margin-top: -29px;
+}
+
+.ansreccompnamekanafield {
+    margin-left: 255px;
+    margin-top: -33px;
+    width: 600px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansreccompnamekana {
+    margin-left: 40px;
+}
+
+/* Answer Record Search - Address Style */
+.ansreccustaddbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 97px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansreccustaddfield {
+    margin-left: 255px;
+    margin-top: -72px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansreccustaddtextarea {
+    width: 900px;
+    margin-left: 255px;
+    margin-top: 5px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansreccustadd {
+    margin-top: 40px;
+    margin-left: 170px;
+}
+
+/* Answer Record Search - Tel Style */
+.ansreccusttelbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansreccusttel {
+    margin-left: 190px;
+}
+
+.ansreccusttelfield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Email Style */
+.ansrecemailbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 40em;
+    margin-top: -29px;
+}
+
+.ansrecemailfield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecemail {
+    margin-left: 190px;
+}
+
+/* Answer Record Search - Fax Style */
+.ansreccustfaxbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansreccustfaxfield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansreccustfax {
+    margin-left: 190px;
+}
+
+/* Answer Record Search - Product Information Style */
+.ansrecprodinfobg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecprodinfolabel {
+    margin-left: 80px;
+}
+
+.ansrecprodinfotextarea {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecprodinfoeqbutton {
+    width: 60px;
+    margin-left: -50em;
+    margin-top: -53px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecprodinfodelbutton {
+    width: 60px;
+    margin-left: 5px;
+    margin-top: -53px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Product Information Style */
+.ansrecprodnamebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 33em;
+    margin-top: -15px;
+}
+
+.ansrecprodname {
+    margin-left: 120px;
+}
+
+.ansrecprodnamefield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Trade Name Style */
+.ansrectradenamebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 33em;
+    margin-top: 5px;
+}
+
+.ansrectradename {
+    margin-left: 130px;
+}
+
+.ansrectradenamefield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Installation Date Style */
+.ansrecinstalldatebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 33em;
+    margin-top: 5px;
+}
+
+.ansrecinstalldate {
+    margin-left: 110px;
+}
+
+.ansrecinstalldateyear {
+    margin-left: 265px;
+    margin-top: -29px;
+}
+
+.ansrecinstalldateyearfield {
+    margin-left: 305px;
+    margin-top: -36px;
+    width: 90px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecinstalldatemonth {
+    margin-left: 110px;
+    margin-top: -29px;
+}
+
+.ansrecinstalldatemonthfield {
+    margin-left: 460px;
+    margin-top: -31px;
+    width: 90px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecinstalldateday {
+    margin-left: 110px;
+    margin-top: -29px;
+}
+
+.ansrecinstalldatedayfield {
+    margin-left: 600px;
+    margin-top: -31px;
+    width: 90px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Manufacturing No. Style */
+.ansrecmanufacnumbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 33em;
+    margin-top: 5px;
+}
+
+.ansrecmanufacnum {
+    margin-left: 90px;
+}
+
+.ansrecmanufacnumfield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Manufacturing Name Style */
+.ansrecmanufacnamebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 33em;
+    margin-top: 5px;
+}
+
+.ansrecmanufacname {
+    margin-left: 70px;
+}
+
+.ansrecmanufacnamefield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Query Classification Style */
+.ansrecqueryclassbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecqueryclasstextarea {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecqueryclasseqbutton {
+    width: 60px;
+    margin-left: -50em;
+    margin-top: -53px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecqueryclassdelbutton {
+    width: 60px;
+    margin-left: 5px;
+    margin-top: -53px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Urgency field */
+.ansrecurgencybg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 33em;
+    margin-top: -15px;
+}
+
+.ansrecurgency {
+    margin-left: 150px;
+}
+
+.ansrecurgencydropdown {
+    width: 120px;
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Estimated Response Date Style */
+.ansrecedtbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 33em;
+    margin-top: 5px;
+}
+
+.ansrecedt {
+    margin-left: 80px;
+}
+
+.ansrecedtyear {
+    margin-left: 265px;
+    margin-top: -28px;
+}
+
+.ansrecedtyearfield {
+    margin-left: 300px;
+    margin-top: -37px;
+    width: 90px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecedtmonth {
+    margin-left: 110px;
+    margin-top: -28px;
+}
+
+.ansrecedtmonthfield {
+    width: 90px;
+    margin-left: 460px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecedtday {
+    margin-left: 110px;
+    margin-top: -28px;
+}
+
+.ansrecedtdayfield {
+    width: 90px;
+    margin-left: 600px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecedttime {
+    margin-left: 110px;
+    margin-top: -28px;
+}
+
+.ansrecedttimefield {
+    width: 90px;
+    margin-left: 745px;
+    margin-top: -31px;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Response Date and Time Style */
+.ansrecrdtbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 33em;
+    margin-top: 5px;
+}
+
+.ansrecrdt {
+    margin-left: 40px;
+}
+
+.ansrecrdtyear {
+    margin-left: 265px;
+    margin-top: -28px;
+}
+
+.ansrecrdtyearfield {
+    margin-left: 300px;
+    margin-top: -37px;
+    width: 90px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecrdtmonth {
+    margin-left: 110px;
+    margin-top: -28px;
+}
+
+.ansrecrdtmonthfield {
+    width: 90px;
+    margin-left: 460px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecrdtday {
+    margin-left: 110px;
+    margin-top: -28px;
+}
+
+.ansrecrdtdayfield {
+    width: 90px;
+    margin-left: 600px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecrdttime {
+    margin-left: 110px;
+    margin-top: -28px;
+}
+
+.ansrecrdttimefield {
+    width: 90px;
+    margin-left: 745px;
+    margin-top: -31px;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Recall Matters Style */
+.ansrecrecallmattersbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 33em;
+    margin-top: 5px;
+}
+
+.ansrecrecallmatters {
+    margin-left: 110px;
+}
+
+.ansrecrecallmattersdropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    width: 150px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - PL Case Style */
+.ansrecplcasebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 33em;
+    margin-top: 5px;
+}
+
+.ansrecplcase {
+    margin-left: 150px;
+}
+
+.ansrecplcasefield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Item Name Style */
+.ansrecitemnamebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecitemname {
+    margin-left: 130px;
+}
+
+.ansrecitemnamefield {
+    margin-left: 255px;
+    margin-top: -33px;
+    width: 600px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Inquiry Details Style */
+.ansrecinqdetailsbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 60px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecinqdetails {
+    margin-left: 120px;
+    margin-top: 15px;
+    
+}
+
+.ansrecinqdetailsfield {
+    margin-left: 255px;
+    margin-top: -46px;
+    height: 60px;
+    width: 700px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Contents Style */
+.ansreccontentscontbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 60px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansreccontentscont {
+    margin-left: 150px;
+    margin-top: 15px;
+}
+
+.ansreccontentscontfield {
+    margin-left: 255px;
+    margin-top: -46px;
+    height: 60px;
+    width: 700px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Remarks Style */
+.ansrecremarksbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 60px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecremarks {
+    margin-left: 150px;
+    margin-top: 15px;
+}
+
+.ansrecremarksfield {
+    margin-left: 255px;
+    margin-top: -46px;
+    height: 60px;
+    width: 700px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Implementation of CS Surveys Style */
+.ansrecsurveysbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+}
+
+.ansrecsurvyesdropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Workaround Style */
+.ansrecworkaroundbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecworkaround {
+    margin-left: 120px;
+}
+
+.ansrecworkarounddropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    width: 300px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Dissatisfied Style */
+.ansrecdissatisfiedbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 25px;
+}
+
+.ansrecadissatisfiedfield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Resolution Details Style */
+.ansrecresobg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecreso {
+    margin-left: 100px;
+}
+
+.ansrecresofield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Outcome Style */
+.ansrecoutcomebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecoutcome {
+    margin-left: 150px;
+}
+
+.ansrecoutcomedropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Action Style */
+.ansrecactionbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecactiondropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.andrecaction {
+    margin-left: 160px;
+}
+
+/* Answer Record Search - Customer Reference Style */
+.ansreccustrefbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansreccustrefdropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    width: 180px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansreccustref {
+    margin-left: 65px;
+}
+
+/* Answer Record Search - Interview Code Style */
+.ansrecintcodebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 27px;
+}
+
+.ansrecintcodedropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrecintcode {
+    margin-left: 110px;
+}
+
+/* Answer Record Search - Request for Proposal Style */
+.ansrecropbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecrop {
+    margin-left: 70px;
+}
+
+.ansrecropdropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Control Number Style */
+.ansreccontrolnumbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansreccontrolnumfield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansreccontrolnum {
+    margin-left: 100px;
+}
+
+/* Answer Record Search - Flag Style */
+.ansrecflagbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecflag {
+    margin-left: 180px;
+}
+
+.ansrecflagfield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Callback Style */
+.ansreccallbackbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 27px;
+}
+
+.ansreccallbackfield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansreccallback {
+    margin-left: 160px;
+}
+
+/* Answer Record Search - Business Classification Style */
+.ansrecbusinessclassbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecbusinessclass {
+    margin-left: 60px;
+}
+
+.ansrecbusinessclassdropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    width: 150px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Model Number Style */
+.ansrecmodelnumbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrecmodelnum {
+    margin-left: 100px;
+}
+
+.ansrecmodelnumdropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Target Lot Style */
+.ansrectargetlotbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrectargetlot {
+    margin-left: 130px;
+}
+
+.ansrectargetlotdropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    width: 150px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* Answer Record Search - Cleaner Style */
+.ansreccleanernumbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 27px;
+}
+
+.ansreccleanernumfield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansreccleanernum {
+    margin-left: 90px;
+}
+
+/* Answer Record Search - Transportation Request Number Style */
+.ansrectransponumbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ansrectransponumfield {
+    margin-left: 255px;
+    margin-top: -33px;
+    border-style: solid;
+    border-color: black;
+}
+
+.ansrectransponum {
+    margin-left: 50px;
+}
+
+
+
+.g2 {
+    flex: 1;
+    margin: 10px;
+    padding-bottom: 10px;
+    background-color: gainsboro;
+}
+  
+.g2:first-child {
+    margin-right: 10px;
+}
+
+.testcase2 {
+    display: flex;
+    flex-direction: row;
+  }
+
+.mainbuttons {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+    margin-top: -50px;
+}
+

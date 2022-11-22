@@ -1,0 +1,37 @@
+.login {
+    text-align: center;
+  }
+  
+  .loginicon {
+    width: 700px;
+    margin-top: 40px;
+  }
+  
+  .loginfield {
+    width: 500px;
+    margin-left: 700px;
+    border-style: solid;
+    border-color: black;
+  }
+  
+  .emailaddlabel {
+    margin-left: -410px;
+  }
+  
+  .passwordlabel {
+    margin-left: -440px;
+  }
+  
+  .loginbutton {
+    margin-left: -5px;
+    margin-top: 5px;
+    border-style: solid;
+    border-color: black;
+  }
+  
+  .cancelbutton {
+    margin-left: 5px;
+    margin-top: 5px;
+    border-style: solid;
+    border-color: black;
+  }

@@ -1,0 +1,701 @@
+.thirdform {
+    text-align: center;
+}
+
+.searchcriteriainfo {
+    background-color: lightgrey;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.thirdformtables {
+    background-color: lightgrey;
+    display: flex;
+    margin-bottom: 10px;
+    overflow: scroll;
+}
+
+.thirdformheader {
+    width: 200px;
+}
+
+.thirdformcolumnheaders {
+    background-color: #61dafb;
+}
+
+.thirdformmaintable {
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+/* Main Header Style */
+.searchcriteriaheader {
+    font-size: medium;
+    font-weight: bold;
+    font-family: Helvetica;
+    margin-left: -111em;
+}
+
+/* Repair Request Search - Date of Reception Style */
+.repreqrecepdatebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.repreqrecepdate {
+    margin-left: 120px;
+}
+
+.repreqrecepdatefield1 {
+    margin-left: 255px;
+    margin-top: -34px;
+    width: 200px;
+    height: 32px;
+}
+
+.repreqrecepdatecalendar1 {
+    height: 35px;
+    width: 35px;
+    margin-top: -36px;
+}
+
+.repreqrecepdatefield2 {
+    margin-left: 1px;
+    margin-top: -34px;
+    width: 200px;
+    height: 32px;
+}
+
+.repreqrecepdatecalendar2 {
+    height: 35px;
+    width: 35px;
+    margin-top: -36px;
+}
+
+/* Repair Request Search - Classification field Style */
+.repreqclassbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 45em;
+    margin-top: -30px;
+}
+
+.repreqclass {
+    margin-left: 130px;
+}
+
+.repreqclassdropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+    width: 150px;
+}
+
+/* Repair Request Search - Date of Completion Style */
+.repreqcompdatebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.repreqcompdate {
+    margin-left: 100px;
+}
+
+.repreqcompdatefield1 {
+    margin-left: 255px;
+    margin-top: -33px;
+    width: 200px;
+    height: 32px;
+}
+
+.repreqcompdatecalendar1 {
+    height: 35px;
+    width: 35px;
+    margin-top: -34px;
+}
+
+.repreqcompdatefield2 {
+    margin-left: 1px;
+    margin-top: -33px;
+    width: 200px;
+    height: 32px;
+}
+
+.repreqcompdatecalendar2 {
+    height: 35px;
+    width: 35px;
+    margin-top: -35px;
+}
+
+/* Repair Request Search - Receptionist Style */
+.repreqreceptionistbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 45em;
+    margin-top: -30px;
+}
+
+.repreqreceptionist {
+    margin-left: 130px;
+}
+
+.repreqreceptionistfield {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+/* Repair Request Search - Product Group Style */
+.repreqprodgrpbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 80em;
+    margin-top: -29px;
+}
+
+.repreqprodgrp {
+    margin-left: 120px;
+}
+
+.repreqprodgrpfield {
+    margin-left: 255px;
+    margin-top: -34px;
+}
+
+/* Repair Request Search - Product Name Style */
+.repreqprodnamebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.repreqprodnamefield {
+    margin-left: 255px;
+    margin-top: -32px;
+}
+
+.repreqprodname {
+    margin-left: 120px;
+}
+
+/* Repair Request Search - SS Code Style */
+.repreqsscodebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 45em;
+    margin-top: -30px;
+}
+
+.repreqsscode {
+    margin-left: 160px;
+}
+
+.repreqsscodefield {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+/* Repair Request Search - Slip No. Style */
+.repreqslipnumbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 80em;
+    margin-top: -29px;
+}
+
+.repreqslipnum {
+    margin-left: 170px;
+}
+
+.repreqslipnumfield {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+/* Repair Request Search - Manufacturer Style */
+.repreqmanufacnamebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.repreqmanufacname {
+    margin-left: 80px;
+}
+
+.repreqmanufacnamefield {
+    margin-left: 255px;
+    margin-top: -32px;
+}
+
+/* Repair Request Search - Dealer Tel Style */
+.repreqdealertelbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 45em;
+    margin-top: -30px;
+}
+
+.repreqdealertel {
+    margin-left: 140px;
+}
+
+.repreqdealertelfield {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+/* Repair Request Search - Dealer Fax Style */
+.repreqdealerfaxbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 80em;
+    margin-top: -29px;
+}
+
+.repreqdealerfax {
+    margin-left: 140px;
+}
+
+.repreqdealerfaxfield {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+/* Repair Request Search - Reception field Style */
+.repreqrecepnumbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.repreqrecepnumfield {
+    margin-left: 255px;
+    margin-top: -32px;
+}
+
+.repreqrecepnum {
+    margin-left: 120px;
+}
+
+/* Repair Request Search - Zip Code field Style */
+.repreqzipcodebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 45em;
+    margin-top: -30px;
+}
+
+.repreqzipcode {
+    margin-left: 150px;
+}
+
+.repreqzipcodefield {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+/* Repair Request Search - Reseller Code Style */
+.repreqrescodebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 80em;
+    margin-top: -29px;
+}
+
+.repreqrescodefield {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+.repreqrescode {
+    margin-left: 120px;
+}
+
+/* Repair Request Search - Tel field */
+.repreqtelbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.repreqtelfield {
+    margin-left: 255px;
+    margin-top: -32px;
+}
+
+.repreqtel {
+    margin-left: 190px;
+}
+
+/* Repair Request Search - Dealer Name Style */
+.repreqdealernamebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 45em;
+    margin-top: -30px;
+}
+
+.repreqdealernamefield {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+.repreqdealername {
+    margin-left: 120px;
+}
+
+/* Repair Request Search - User Name Style */
+.reprequsernamebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 80em;
+    margin-top: -29px;
+}
+
+.reprequsernamefield {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+.reprequsername {
+    margin-left: 130px;
+}
+
+/* Repair Request Search - FE Contact Name Style */
+.repreqfecontnamebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.repreqfecontnamefield {
+    margin-left: 255px;
+    margin-top: -32px;
+}
+
+.repreqfecontname {
+    margin-left: 90px;
+}
+
+
+/* Repair Request Search - Reception Method Style */
+.repreqrecepmethodbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 45em;
+    margin-top: -30px;
+}
+
+.repreqrecepmethoddropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+.repreqrecepmethod {
+    margin-left: 80px;
+}
+
+/* Repair Request Search - Phonetic Style */
+.repreqphoneticbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 80em;
+    margin-top: -29px;
+}
+
+.repreqphoneticfield {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+.repreqphonetic {
+    margin-left: 140px;
+}
+
+
+/* Repair Request Search - Date of Visit Style */
+.repreqvisitdatebg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.repreqvisitdatefield {
+    margin-left: 255px;
+    margin-top: -32px;
+}
+
+.repreqvisitdate {
+    margin-left: 120px;
+}
+
+/* Repair Request Search - Repair Method Style */
+.repreqrepairmethodbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 45em;
+    margin-top: -30px;
+}
+
+.repreqrepairmethoddropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+.repreqrepairmethod {
+    margin-left: 120px;
+}
+
+/* Repair Request Search - Manufacturing Number Style */
+.repreqmanufacnumbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 80em;
+    margin-top: -29px;
+}
+
+.repreqmanufacnumfield {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+.repreqmanufacnum {
+    margin-left: 80px;
+}
+
+/* Repair Request Search - Extended Warranty Number Style */
+.repreqwarrantybg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.repreqwarrantyfield {
+    margin-left: 255px;
+    margin-top: -32px;
+}
+
+.repreqwarranty {
+    margin-left: 40px;
+}
+
+/* Repair Request Search - PL Events Style */
+.repreqpleventsbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 45em;
+    margin-top: -30px;
+}
+
+.repreqpleventsdropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+.repreqplevents {
+    margin-left: 160px;
+}
+
+/* Repair Request Search - Order Number Style */
+.repreqordernumbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 80em;
+    margin-top: -29px;
+}
+
+.repreqordernumfield {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+.repreqordernum {
+    margin-left: 110px;
+}
+
+/* Repair Request Search - Accident Information Style */
+.repreqaccidentinfobg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.accidentfield1 {
+    width: 120px;
+    height: 31px;
+    margin-left: 255px;
+    margin-top: -32px;
+}
+
+.dash1 {
+    font-weight: bold;
+    font-size: xx-large;
+    margin-top: -43px;
+    margin-left: 5px;
+}
+
+.accidentfield2 {
+    width: 120px;
+    height: 31px;
+    margin-left: 5px;
+    margin-top: -32px;
+}
+
+.accidentfield3 {
+    width: 120px;
+    height: 31px;
+    margin-left: 5px;
+    margin-top: -32px;
+}
+
+.accidentfield4 {
+    width: 160px;
+    height: 31px;
+    margin-left: 5px;
+    margin-top: -32px;
+}
+
+.accidentfield5 {
+    width: 120px;
+    height: 31px;
+    margin-left: 5px;
+    margin-top: -32px;
+}
+
+.accidentfield6 {
+    width: 120px;
+    height: 31px;
+    margin-left: 5px;
+    margin-top: -32px;
+}
+
+/* Repair Request Search - Number of Display Permits Style */
+.repreqpermitsbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.repreqpermitsfield {
+    margin-left: 255px;
+    margin-top: -33px;
+    height: 31px;
+    width: 120px;
+}
+
+.repreqpermitslabel {
+    margin-top: -28px;
+    margin-left: 5px;
+}
+
+/* Repair Request Search - Sort Style */
+.repreqsortbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 45em;
+    margin-top: -29px;
+}
+
+.repreqsortdropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+/* Repair Request Search - Sort Order Style */
+.repreqsortorderbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 80em;
+    margin-top: -29px;
+}
+
+.repreqsortorderdropdown {
+    margin-left: 255px;
+    margin-top: -33px;
+}
+
+/* Repair Request Search - EDI Data Extraction Style */
+.repreqdataextractbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+/* Repair Request Search - CSV Import Data Extraction Style */
+.repreqcsvdatabg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+/* Repair Request Search - Send SMS Style */
+.repreqsmsbg {
+    background-color: #61dafb;
+    width: 250px;
+    height: 29px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.g3 {
+    flex: 1;
+    margin: 10px;
+    padding-bottom: 10px;
+    background-color: red;
+}
+
+.g3:first-child {
+    margin-left: 10px;
+}
+
+.testcase3 {
+    display: flex;
+    flex-direction: row;
+}
